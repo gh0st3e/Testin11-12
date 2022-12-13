@@ -1,0 +1,13 @@
+page\WomenShopPage.class
+test\CommonConditions.class
+test\PumaTest.class
+page\MenShopPage.class
+page\SportPage.class
+test\PumaTest2.class
+page\CollabarationPage.class
+util\TestListener.class
+service\TestDataReader.class
+page\ItemsPage.class
+driver\DriverSingleton.class
+page\AbstractPage.class
+page\MainPage.class
